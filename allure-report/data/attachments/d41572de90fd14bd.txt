@@ -1,0 +1,1 @@
+Rented books: ["You Don't Know JS", 'Learning JavaScript Design Patterns']

@@ -1,0 +1,1 @@
+Rented books: ['Git Pocket Guide', 'Designing Evolvable Web APIs with ASP.NET']
